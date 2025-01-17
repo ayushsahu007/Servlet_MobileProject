@@ -28,11 +28,6 @@
     <scope>provided</scope>
 </dependency>
 
-  	<dependency>
-  		<groupId>com.jsp.servlet</groupId>
-  		<artifactId>Calculator_Servlet</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
   <build>
     <finalName>ServletProject_Mobile</finalName>
